@@ -1,0 +1,143 @@
+=> [[32m#<Article:0x0055fba936bf00[0m
+  id: [1;34m1[0m,
+  title: [31m[1;31m"[0m[31mSint sit facere quidem ducimus odio vitae sed.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mEt et voluptatibus autem maiores fugiat dolores molestias. Quia sunt voluptatem quaerat a commodi. Iure saepe qui illo quae aut quia accusantium. Ut et dolor officia sit voluptatem neque. Earum illum autem ut et consequuntur sed.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d978[0m
+  id: [1;34m2[0m,
+  title: [31m[1;31m"[0m[31mQuia et sit esse illum.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mNon eius sapiente consequatur. Sed a veniam et et dicta consequatur. Distinctio saepe necessitatibus praesentium aut recusandae expedita. Qui qui aperiam minima modi. Voluptates itaque officiis saepe.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d838[0m
+  id: [1;34m3[0m,
+  title: [31m[1;31m"[0m[31mRerum itaque suscipit dolor ut ad libero.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mSequi exercitationem autem vero unde quia velit distinctio. Illum doloribus ad eveniet. Consequatur odit quasi laudantium in. Recusandae dolore illum praesentium quia culpa voluptate ullam. Vero dolorem porro nisi optio aliquam.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d6d0[0m
+  id: [1;34m4[0m,
+  title: [31m[1;31m"[0m[31mArchitecto eum voluptatem perferendis amet ullam.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mTenetur dolorum eos quos asperiores rerum sit ratione. Voluptate assumenda hic sit architecto veniam. Sit eveniet deserunt hic facilis quis non et. Id quae ut adipisci non eos quaerat nesciunt.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d518[0m
+  id: [1;34m5[0m,
+  title: [31m[1;31m"[0m[31mQuo vitae eos rem iusto assumenda dicta illum qui.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mPorro ea sint aut. Eos rem modi esse ut eos. Consequuntur maiores architecto eum. Pariatur et perspiciatis. Suscipit minima eius.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d3b0[0m
+  id: [1;34m6[0m,
+  title: [31m[1;31m"[0m[31mAssumenda ipsam eveniet libero et voluptates ut sed voluptas.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mNostrum sed impedit magnam nemo sit. Perferendis esse doloremque error ipsa. Blanditiis ad ab doloribus nihil. Aliquam eos dolor qui. Voluptatem veniam vel possimus accusamus voluptas magni.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935d220[0m
+  id: [1;34m7[0m,
+  title: [31m[1;31m"[0m[31mCorrupti omnis pariatur earum.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mEnim veniam suscipit molestiae ut. Odio molestias ipsum eveniet et error quia illo. Fugiat in alias voluptas qui placeat dolorem. Aut id nisi cumque explicabo ea velit eveniet.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935cfa0[0m
+  id: [1;34m8[0m,
+  title: [31m[1;31m"[0m[31mUt corporis nam dicta sed et quo.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mMaiores occaecati quaerat ratione explicabo dolorem. Aut dolor omnis hic repellendus. Excepturi et eos culpa voluptate saepe. Modi nam veritatis optio eaque sit. Omnis officiis dolore eaque ut.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935cd48[0m
+  id: [1;34m9[0m,
+  title:
+   [31m[1;31m"[0m[31mConsequatur quibusdam quis officia voluptatem totam aut maxime nostrum.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mEos impedit ut sunt. Occaecati necessitatibus incidunt consequatur voluptatem doloremque. Assumenda consectetur illo et perferendis nulla soluta est.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935cb68[0m
+  id: [1;34m10[0m,
+  title: [31m[1;31m"[0m[31mTenetur sed quidem et.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mVel illum voluptatem sunt cum sequi nisi inventore. Id laborum voluptatem animi omnis nisi. Culpa perspiciatis dolorum alias. Minima molestias atque cumque.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935c910[0m
+  id: [1;34m11[0m,
+  title: [31m[1;31m"[0m[31mUt est officia eaque minima architecto facere quis saepe.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mEnim aspernatur reprehenderit. Pariatur et architecto voluptas perspiciatis odio laboriosam in. Ratione voluptas quis ipsum nobis molestias quis.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935c690[0m
+  id: [1;34m12[0m,
+  title: [31m[1;31m"[0m[31mEligendi illum ea accusantium sit omnis dolor.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mNobis dolor impedit nihil. Autem non qui sit consequatur magnam aut. In ut sunt delectus suscipit nostrum totam aut. Explicabo debitis voluptatem est reiciendis aut quia. Et dolor qui ea illo enim dolores sit.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935c4b0[0m
+  id: [1;34m13[0m,
+  title: [31m[1;31m"[0m[31mVoluptas repellat quo explicabo voluptas cumque modi.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mQui necessitatibus fuga molestiae est. Assumenda architecto ipsam cupiditate. Magnam doloribus voluptatibus magni voluptatem. Aperiam accusamus ut dicta.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935c208[0m
+  id: [1;34m14[0m,
+  title:
+   [31m[1;31m"[0m[31mSaepe necessitatibus doloremque veritatis accusamus dolorum similique tempora consequatur.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mUllam voluptatibus cumque adipisci minima quo. Et sequi nesciunt et enim rerum. Voluptatem sit assumenda ab voluptas voluptate vitae et. Ut autem voluptate.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba935c050[0m
+  id: [1;34m15[0m,
+  title: [31m[1;31m"[0m[31mMagnam nostrum commodi nihil.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mEa exercitationem odit. Nihil facilis eaque ipsam minima. Est tempore ab. Accusantium praesentium mollitia sint expedita.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba9357e88[0m
+  id: [1;34m16[0m,
+  title: [31m[1;31m"[0m[31mOptio perferendis impedit maxime consectetur.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mDicta harum voluptatibus. Temporibus molestiae aperiam voluptatum voluptas rerum et aut. Non aliquam eius expedita. Non aut autem ut esse quam et.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba9357cd0[0m
+  id: [1;34m17[0m,
+  title: [31m[1;31m"[0m[31mEaque mollitia dolorum minus quaerat.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mExcepturi ex dicta quas rerum nisi dolorum. Aspernatur rerum architecto perferendis illum aut nostrum. Assumenda et qui quia porro inventore hic.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba9357b68[0m
+  id: [1;34m18[0m,
+  title: [31m[1;31m"[0m[31mReprehenderit vero distinctio dolor veniam tempore blanditiis.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mSaepe sint nesciunt voluptas nobis iure. Minus nemo culpa perspiciatis corporis nam consequuntur sunt. Exercitationem provident soluta et eum autem vel.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba9357a28[0m
+  id: [1;34m19[0m,
+  title: [31m[1;31m"[0m[31mSint nemo animi dolores nihil velit.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mDignissimos veritatis ratione nobis qui. Culpa quia minus. Possimus nostrum unde.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Article:0x0055fba93578c0[0m
+  id: [1;34m20[0m,
+  title:
+   [31m[1;31m"[0m[31mOfficiis provident consectetur sapiente quia officia atque suscipit molestiae.[1;31m"[0m[31m[0m,
+  content:
+   [31m[1;31m"[0m[31mFacere perspiciatis harum ut qui dolorum. Consequatur quas culpa voluptatem in nisi. Quas aliquam ad enim. Error vero rem magni.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m08[0m [1;34;4mAug[0m [1;34m2017[0m [1;34m13[0m:[1;34m19[0m:[1;34m12[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
